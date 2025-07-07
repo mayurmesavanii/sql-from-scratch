@@ -19,4 +19,4 @@ This repository documents my hands-on journey in mastering SQL using PostgreSQL,
 - pgAdmin
 
 ## 💡 License
-MIT License (or choose your own)
+MIT License
