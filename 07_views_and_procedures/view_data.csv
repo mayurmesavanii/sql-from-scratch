@@ -1,0 +1,6 @@
+"order_id","customer_name","product_name","total_quantity","total_amount","order_timestamp","delivery_timestamp"
+1,"Alice Johnson","Laptop",5,"120.50","2024-01-15 10:30:00","2024-01-16 15:45:00"
+3,"Charlie Brown","Backpack",7,"210.75","2024-03-12 08:45:00","2024-03-14 09:30:00"
+8,"Grace Hopper","Blender",3,"119.97","2024-08-07 11:30:00","2024-08-08 19:30:00"
+12,"Karen Page","Headphones",2,"259.98","2025-01-03 10:15:00","2025-01-04 13:00:00"
+13,"Liam Neeson","Coffee Maker",3,"150.00","2025-03-01 09:20:00","2025-03-03 15:10:00"

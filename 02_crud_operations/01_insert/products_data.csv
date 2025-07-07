@@ -1,0 +1,11 @@
+"product_id","name","price","description","tags","category_id","supplier"
+1,"Laptop",NULL,"High-performance laptop for professionals","electronics, portable, tech",1,"SupplierA"
+2,"Headphones","129.99","Over-ear wireless headphones","electronics, audio, accessories",1,"SupplierB"
+3,"Backpack","49.99","Stylish and durable backpack for everyday use","fashion, accessories, travel",2,NULL
+4,"Coffee Maker",NULL,"Automatic drip coffee maker with programmable timer","home, kitchen, appliances",3,NULL
+5,"Fitness Tracker","79.99","Water-resistant fitness tracker with heart rate monitor","electronics, fitness, wearables",1,NULL
+6,"The Great Gatsby","14.99","Classic novel by F. Scott Fitzgerald","books, literature, fiction",4,"BookPublisherA"
+7,"Yoga Mat","19.99","Non-slip yoga mat for home workouts","sports, fitness, accessories",5,"SportsSupplierA"
+8,"Blender","39.99","High-speed blender for smoothies and shakes","home, kitchen, appliances",3,"KitchenCo"
+9,"T-Shirt","15.99","Cotton t-shirt with custom print design","clothing, fashion, casual",2,"SupplierC"
+10,"Resistance Bands","25.50","Set of resistance bands for strength training","sports, workout, gear",5,"SportsSupplierB"
