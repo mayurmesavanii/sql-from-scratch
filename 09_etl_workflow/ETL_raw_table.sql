@@ -15,7 +15,7 @@ CREATE TABLE ETL_Raw_Sales_Staging (
 CREATE TABLE Clean_Sales (
     customer_id SERIAL PRIMARY KEY,
     customer_name TEXT NOT NULL,
-    email TEXT NOT NULL,
+    email TEXT,
     city TEXT,
     product_name TEXT NOT NULL,
     price NUMERIC(10,2),
